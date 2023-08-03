@@ -1,0 +1,17 @@
+.headOne{
+    margin-top: 20%;
+    margin-right: 50%;
+}
+.headtwo{
+    margin-top: 20%;
+    margin-right: 50%;
+}
+.win{
+    border-radius: 50%;
+    height: 300px;
+    width: 300px;
+}
+.font{
+    position: relative;
+    left: 50px;
+}
